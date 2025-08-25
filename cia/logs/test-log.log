@@ -1,0 +1,5 @@
+2025-08-25 13:15:39 INFO  SeleniumLog4jTest:18 - Setting up WebDriver
+2025-08-25 13:15:43 INFO  SeleniumLog4jTest:22 - Browser launched
+2025-08-25 13:15:43 INFO  SeleniumLog4jTest:27 - Navigating to example.com
+2025-08-25 13:15:44 INFO  SeleniumLog4jTest:29 - Page title is: Example Domain
+2025-08-25 13:15:44 INFO  SeleniumLog4jTest:36 - Browser closed
